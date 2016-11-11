@@ -1,4 +1,4 @@
-## MEAN STACK
+## MERN STACK
 ReactJS as front end, NodeJS/Express as back end.
 
 ## REQUIREMENT
